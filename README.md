@@ -1,5 +1,5 @@
 # ThermoHygro328P
-ATmega328P Thermo-Hygrometer
+ATmega328P Thermo-Hygrometer with 7-Segment Display
 
 <p align="center">
   <img src="images/device1.jpg" width="45%">
